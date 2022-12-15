@@ -1,0 +1,28 @@
+body{
+    background: url('./images/nick-fewings-YkA7CLrMg8g-unsplash.jpg');
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.container{
+    text-align: center;
+    background: transparent;
+    opacity: 1;
+    position: absolute;
+    border-radius: 5px;
+    z-index: 100;
+    font-size: 2rem;
+}
+.btn{
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+    margin-left: 10px;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
