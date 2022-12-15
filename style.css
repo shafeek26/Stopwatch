@@ -4,4 +4,12 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    position: relative;
+}
+
+.container{
+    background-color: #207398;
+    text-align: center;
+    opacity: 100;
+    position: absolute;
 }
