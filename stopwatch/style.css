@@ -18,6 +18,10 @@ body{
     z-index: 100;
     font-size: 2rem;
 }
+.time{
+    font-weight: 600;
+    color: #0D0D0D;
+}
 .btn{
     padding: 5px 10px;
     border: none;
@@ -25,4 +29,5 @@ body{
     margin-left: 10px;
     font-size: 1.1rem;
     font-weight: 600;
+    color: #0D0D0D;
 }
